@@ -113,6 +113,20 @@ quantum-experiments/
 
 ---
 
+## 🧠 Quantum Experiment Visuals
+
+| ![Bloch Spheres](images/bloch_spheres.png) | ![Quantum Circuit](images/optimized_circuit.png) |
+|:--:|:--:|
+| *Bloch sphere visualization* | *Optimized circuit from VQE simulation* |
+
+| ![Energy Landscape](images/energy_landscape.png) | ![Noise Simulation](images/noise_simulation.png) |
+|:--:|:--:|
+| *Energy landscape for Hamiltonian H = ZI + IZ* | *Noise simulation comparison (p = 0.05)* |
+
+<p align="center"><em>All images were generated from real Qiskit simulations run locally on the VS Code + OpenAI Codex environment.</em></p>
+
+---
+
 ## 🤝 Attribution
 
 This demo was generated and refined using **VS Code + OpenAI Codex integration**.  

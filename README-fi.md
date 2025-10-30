@@ -123,6 +123,20 @@ quantum-experiments/
 
 ---
 
+## 🧠 Kvanttikokeiden visualisoinnit
+
+| ![Bloch pallot](images/bloch_spheres.png) | ![Optimoitu piiri](images/optimized_circuit.png) |
+|:--:|:--:|
+| *Qubittien Bloch-pallojen visualisointi* | *VQE-simulaation optimoitu piiri* |
+
+| ![Energiamaisema](images/energy_landscape.png) | ![Kohinasimulaatio](images/noise_simulation.png) |
+|:--:|:--:|
+| *Hamiltonin H = ZI + IZ energiamaisema* | *Kohinasimulaation vertailu (p = 0.05)* |
+
+<p align="center"><em>Kuvat on tuotettu todellisista Qiskit-simulaatioista, suoritetuista VS Code + OpenAI Codex -ympäristössä.</em></p>
+
+---
+
 ## ✍️ Tekijä ja tekoälyavusteisuus
 
 Projektin rakensi ja viimeisteli **Teppo ("RebelCoding84")**.  
