@@ -1,0 +1,29 @@
+# === Python / VS Code project ===
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & temporary
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Notebook metadata backups
+*.bak
