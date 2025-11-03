@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Qiskit](https://img.shields.io/badge/Qiskit-1.0-purple)
-![License](https://img.shields.io/badge/License-AGPLv3-green)
 ![Build](https://img.shields.io/badge/Status-Working-success)
 
 # 🧠 Quantum Experiments – Bell State & VQE Simulation (AI-assisted)
